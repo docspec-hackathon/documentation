@@ -15,6 +15,8 @@ Successfully switching to Docs is not just the technical import of source docume
 
 Not all of the aspects discussed in the following will be relevant for each Docs user community, but It may be helpful for both potential Docs users but also the Docs development community to understand challenges, options and limitations related to data import.
 
+![Overview describing aspects in the migration of Documents to Docs](/assets/lasuite-docs-migration-big-picture.drawio.png)
+
 ### Data sources
 
 We distinguish between documents as files (e.g. ".docx.", ".txt") and "documents as data structures", the latter coming from systems/APIs such as Intranets, Notion or Wikis. Documents as files may be sources from a file system or also from an API (e.g, Dropbox or SharePoint).
@@ -59,7 +61,9 @@ For tracking formal validation issues encountered during document conversion, we
 
 ## Importing .docx to Docs
 
-As an initial Proof-of-Concept, we implemented the import of ".docx" files into La Suite Docs. Aspects covered by our implementation are highlighted in the diagram.
+As an initial Proof-of-Concept, we implemented the import of ".docx" files into La Suite Docs. Aspects covered by our implementation are highlighted green in the diagram.
+
+![Overview describing aspects in the migration of Documents to Docs (highlighting implemented aspects)](/assets/lasuite-docs-migration-big-picture.drawio.png)
 
 The implementation has two parts:
 - The actual conversion of ".docx" to a BlockNote data structure

@@ -1,0 +1,82 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Page-1" id="sT79m0GHos7tHv6fGzbf">
+    <mxGraphModel dx="832" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ifvk8aosAHDzLJxZqinL-1" value="&lt;div&gt;Local file shares&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="160" y="291" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ifvk8aosAHDzLJxZqinL-2" value="Importing existing documents into La Suite Docs&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=16;labelBackgroundColor=none;fontColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="80" y="40" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ifvk8aosAHDzLJxZqinL-3" value="Data source" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3;fontSize=14;labelBackgroundColor=none;fontColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="160" y="160" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ifvk8aosAHDzLJxZqinL-4" value="Conversion" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3;fontSize=14;labelBackgroundColor=none;fontColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="400" y="160" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ifvk8aosAHDzLJxZqinL-5" value="&lt;div&gt;ACLs&lt;/div&gt;&lt;div&gt;Metadata&lt;/div&gt;&lt;div&gt;,,,&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="400" y="251" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ifvk8aosAHDzLJxZqinL-6" value="Actual document content" style="rounded=0;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="400" y="331" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ifvk8aosAHDzLJxZqinL-7" value="Data destination" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3;fontSize=14;labelBackgroundColor=none;fontColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="640" y="160" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ifvk8aosAHDzLJxZqinL-8" value="Report" style="rounded=0;whiteSpace=wrap;html=1;align=center;rotation=-90;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="480" y="306" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ifvk8aosAHDzLJxZqinL-9" value="APIs" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="160" y="383" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ifvk8aosAHDzLJxZqinL-10" value="APIs" style="rounded=0;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="160" y="331" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ifvk8aosAHDzLJxZqinL-11" value="&lt;div&gt;Documents as files&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;rotation=-90;labelBackgroundColor=none;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="210" y="291" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ifvk8aosAHDzLJxZqinL-12" value="Document&lt;br&gt;&amp;nbsp;data structures" style="rounded=0;whiteSpace=wrap;html=1;align=center;rotation=-90;labelBackgroundColor=none;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" parent="1" vertex="1">
+          <mxGeometry x="215.31" y="418.69" width="99.38" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KpTEzxRlMDBFVml56bKS-1" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Scenario: &quot;Ministry of tasty Food&quot; wants to switch to &quot;Docs&quot;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;labelBackgroundColor=none;fontColor=#182E3E;" vertex="1" parent="1">
+          <mxGeometry x="80" y="65" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KpTEzxRlMDBFVml56bKS-2" value="Docs &lt;br&gt;APIs" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" vertex="1" parent="1">
+          <mxGeometry x="640" y="251" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KpTEzxRlMDBFVml56bKS-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#EEEEEE;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="326" y="174" as="sourcePoint" />
+            <mxPoint x="371" y="174" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KpTEzxRlMDBFVml56bKS-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#EEEEEE;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="575" y="174.5" as="sourcePoint" />
+            <mxPoint x="620" y="174.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KpTEzxRlMDBFVml56bKS-6" value="Report" style="rounded=0;whiteSpace=wrap;html=1;align=center;rotation=-90;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="193.75" y="352.25" width="232.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KpTEzxRlMDBFVml56bKS-7" value="Report" style="rounded=0;whiteSpace=wrap;html=1;align=center;rotation=-90;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="286" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KpTEzxRlMDBFVml56bKS-8" value="&lt;div&gt;File web upload&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" vertex="1" parent="1">
+          <mxGeometry x="160" y="251" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KpTEzxRlMDBFVml56bKS-9" value=".docx, .odt&lt;br&gt;.html&lt;br&gt;..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=2;labelBackgroundColor=none;fontColor=#182E3E;" vertex="1" parent="1">
+          <mxGeometry x="85" y="266" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KpTEzxRlMDBFVml56bKS-11" value="Dropbox,&lt;div&gt;SharePoint,&lt;br&gt;...&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=2;labelBackgroundColor=none;fontColor=#182E3E;" vertex="1" parent="1">
+          <mxGeometry x="90" y="331" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KpTEzxRlMDBFVml56bKS-12" value="HedgeDoc,&lt;br&gt;Notion,&lt;br&gt;Outline,&lt;div&gt;...&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=2;labelBackgroundColor=none;fontColor=#182E3E;" vertex="1" parent="1">
+          <mxGeometry x="90" y="422" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
