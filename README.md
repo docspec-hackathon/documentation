@@ -1,6 +1,6 @@
 ## Introduction
 
-Importing existing documents is a major enabling factor for the success of novel tools such as La Suite Docs. 
+Importing existing documents is a major enabling factor for the success of novel tools such as [La Suite Docs](https://github.com/suitenumerique/docs).
 
 Due to the nature of Docs, various types of sources such as document files but also software systems such as Intranets or Wikis can be considered relevant. Microsoft Word Documents (".docx") are probably the source with the highest practical relevance.
 
@@ -57,7 +57,7 @@ For both aspects, proper reporting should be implemented.
 
 ## Reporting conversion issues
 
-For tracking formal validation issues encountered during document conversion, we draft an initial reporting format. It is described in document-conversion-reporting-format.md.
+For tracking formal validation issues encountered during document conversion, we draft an initial reporting format. It is described in [document-conversion-reporting-format.md](document-conversion-reporting-format.md).
 
 ## Importing .docx to Docs
 
@@ -70,11 +70,10 @@ The implementation has two parts:
 - Making the import feature available for Docs users
 
 ### Conversion
-(Details/Link)
-- https://github.com/docspec-hackathon/import-api
+- See https://github.com/docspec-hackathon/import-api for code
 
 ### User experience
-- https://github.com/docspec-hackathon/docs
-(Details/Link/Screenshot)
-- Import button
-- Issue report
+- See https://github.com/docspec-hackathon/docs for fork of La Suite docs using interface improvements:
+    - Import button 
+    - Show issue report
+    
