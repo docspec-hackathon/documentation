@@ -63,7 +63,7 @@ For tracking formal validation issues encountered during document conversion, we
 
 As an initial Proof-of-Concept, we implemented the import of ".docx" files into La Suite Docs. Aspects covered by our implementation are highlighted green in the diagram.
 
-![Overview describing aspects in the migration of Documents to Docs (highlighting implemented aspects)](/assets/lasuite-docs-migration-big-picture.drawio.png)
+![Overview describing aspects in the migration of Documents to Docs (highlighting implemented aspects)](/assets/lasuite-docs-migration-big-picture.drawio-highlighted.png)
 
 The implementation has two parts:
 - The actual conversion of ".docx" to a BlockNote data structure
