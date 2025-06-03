@@ -11,9 +11,9 @@ In this hackathon project, we worked on three interrelated topics:
 
 ## Migrating and importing documents to Docs
 
-Successfully switching to Docs is not just the technical import of source documents, it is also about creating a clear understanding of the complete migration process, questions to decided on and issues to be dealt with.
+Successfully switching to Docs is not just the technical import of source documents. It is also about creating a clear understanding of the complete migration process, questions to decided on and issues to be dealt with.
 
-Not all of the aspects discussed in the following will be relevant for each Docs user community, but It may be helpful for both potential Docs users but also the Docs development community to understand challenges, options and limitations related to data import.
+Not all of the aspects discussed in the following will be relevant for each Docs user community, but it may be helpful for both potential Docs users, and also the Docs development community to understand challenges, options and limitations related to data import.
 
 ![Overview describing aspects in the migration of Documents to Docs](/assets/lasuite-docs-migration-big-picture.drawio.png)
 
@@ -57,7 +57,7 @@ For both aspects, proper reporting should be implemented.
 
 ## Reporting conversion issues
 
-For tracking formal validation issues encountered during document conversion, we draft an initial reporting format. It is described in [document-conversion-reporting-format.md](document-conversion-reporting-format.md).
+For tracking formal validation issues encountered during document conversion, we draft an initial reporting format. It is described in [document-conversion-reporting-format.md](https://github.com/docspec-hackathon/documentation/blob/main/document-conversion-reporting-format.md).
 
 ## Importing .docx to Docs
 
