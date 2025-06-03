@@ -77,3 +77,8 @@ The implementation has two parts:
     - Import button 
     - Show issue report
     
+## Resources
+- [La Suite Docs](https://github.com/suitenumerique/docs)
+- [Conversion testing document](/assets/example.docx)
+- [.docx Specification ("[MS-DOCX]: Word Extensions to the Office Open XML (.docx) File Format"](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
+- [BlockNote documentation](https://www.blocknotejs.org/docs/editor-basics/default-schema)
