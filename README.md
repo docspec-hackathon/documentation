@@ -33,7 +33,7 @@ Some sort of scanning/reporting tool can be helpful in this stage already in ord
 
 ### Conversion
 
-Once higher-level topics such as "which folders to migrate where" have been addressed, it gets to conversion at the document level.  y design, Docs will never aim for a 100% feature match with Desktop Word Processing tools. Also other relevant import sources might contain certain features not available in Docs.
+Once higher-level topics such as "which folders to migrate where" have been addressed, it gets to conversion at the document level. Docs will never aim for a 100% feature match with Desktop Word Processing tools. Also other relevant import sources might contain certain features not available in Docs.
 
 Oftentimes end user and particularly IT administrators do not have full transparency about the exact nature of documents to be imported. Hence, the result of an import might range between "great", "acceptable" or "disastrous", depending on the conversion results.
 
