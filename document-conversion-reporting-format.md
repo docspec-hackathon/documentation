@@ -26,7 +26,7 @@ Document conversion issues are JSON objects. We propose the following properties
 - destination_line: int (destination line of code related to the issue; optional)
 - destination_reference: String (destination identifier related to the issue; optional)
 
-== Example ==
+## Example
 ```
 [{
 	"id" : 1,
